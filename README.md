@@ -1,5 +1,7 @@
 # A Whirlwind Tour of Python
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oreillymedia/jnb-whirlwind-py/master?filepath=index.ipynb)
+
 *Jake VanderPlas, Summer 2016*
 
 This repository contains the Jupyter Notebooks behind my O'Reilly report,
